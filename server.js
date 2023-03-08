@@ -1,5 +1,6 @@
 'use strict';
-//
+// https://stackoverflow.com/questions/39489229/pass-variable-to-html-template-in-nodemailer
+// https://javascript.plainenglish.io/nodemailer-custom-dynamic-email-templates-with-html-css-and-handlebars-9b72283575d9
 const express = require('express');
 require('express-async-errors');
 const bodyParser = require('body-parser');
